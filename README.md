@@ -1,7 +1,6 @@
 # Getting Started:
 
-This mod is an intermediate mod for your K1 printer and requires the use of my Linear Rail Gantry for compatibility. It requires some additional parts and pieces to work but once complete you can achieve very high flowrates (50mm<sup>3</sup>/s) and have the ability to do single hand nozzle changes. There are two setups that can be utilized, but for most users I recommend the normal Volcano version over the MZE+V6 version as you can achieve up to 80% of the flowrates without special shrouds.
-
+This K1 printer mod is designed for intermediate users and requires my Linear Rail Gantry, along with some additional components. Once installed, it allows for extremely high flow rates of up to 50mm³/s and enables single-handed nozzle changes. You can choose between two setup options: the standard Volcano version and the MZE+V6 version. For most users, the Volcano version is preferable, as it delivers up to 80% of the maximum flow rates without needing special shrouds.
 
 # What you need:
 
@@ -38,9 +37,9 @@ You also need a new printed carriage that can be found under the usermods sectio
 ![image](https://github.com/user-attachments/assets/c1984e64-4905-481f-aec0-728cc18a6f98)
 
 
-4.) Now while holding the assembly together carefully twist the top of the heatbreak with pliers or fingers to seat the threaded portion of the heartbreak as far into the hotend as possible until you cannot spin anymore this will ensure good seating of the ceramic standoffs. 
+4.) Now, while holding the assembly together, carefully twist the top of the heatbreak with pliers or fingers to seat the threaded portion of the heartbreak as far into the hotend as possible (until you cannot spin anymore), this will ensure good seating of the ceramic standoffs.
 
-5.) Now tighten the grub screw on the back of the heatsink and this should now have your hotend fully assembled.
+5.) $${\color{red}This \space Step \space is \space Critical.}$$ Tighten the grub screw on the back of the heatsink and this should now have your hotend fully assembled. 
 
 6.) Now fully thread and tighten your V6 Volcano or Volcano adapter+MZE+V6 into the hotend until it is fully seated, you will fully tighten this when hot.
 
