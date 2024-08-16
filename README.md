@@ -6,6 +6,8 @@ This K1 printer mod is designed for intermediate users and requires my Linear Ra
 
 [BOM](https://docs.google.com/spreadsheets/d/1sPTMPV2eK_xJK3cMwCgg2oyzx_67ZIePCPmvhL2Yadw/)
 
+[Adapter Plate](https://peedee3d.com/collections/k1/products/k1-series-g5-titanium-dragon-adaptor)
+
 You also need a new printed carriage that can be found under the usermods section of the K1 Linear Rail Gantry [here](https://github.com/tlace17/K1-Linear-Rail-Gantry/tree/main/user-mods/BootyCall%20Jones/Dragon%20ACE%20Mod).
 
 
