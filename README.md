@@ -56,3 +56,5 @@ You also need a new printed carriage that can be found under the usermods sectio
 1.) Add the new length of PTFE between the heartbreak and the extruder and continue onto klipper to set up your new thermistor, tighten your nozzle while hot and run a new PID.
 
 Happy printing
+
+For additional assistance or to just hang out, [Join my Discord!](https://discord.gg/gRDr2ggNuM)
